@@ -11,10 +11,10 @@ humantime: "10:00 am - 6:00 pm"
 startdate: 2019-09-06
 enddate: 2019-09-06
 instructor: ["Andreas Müller"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Sandeep Namburi", "Daniel Danis", "Anne Deslattes Mays", "Jim Kadin"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 61567036664
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
