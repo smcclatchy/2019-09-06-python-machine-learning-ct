@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
 venue: "Introduction to Machine Learning with Python"
-address: "The Jackson Laboratory for Genomic Medicine, Holt Conference Room, 10 Discovery Dr, Farmington CT"
+address: "The Jackson Laboratory for Genomic Medicine, Holt Conference Room & Room 2440, 10 Discovery Dr, Farmington CT"
 country: "us"
 language: "en"
 latlng: "41.732433,-72.79360"
@@ -13,7 +13,7 @@ enddate: 2019-09-06
 instructor: ["Andreas Müller"]
 helper: ["Sandeep Namburi", "Daniel Danis", "Anne Deslattes Mays", "Jim Kadin"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-09-06-python-machine-learning-ct
 eventbrite: 61567036664
 ---
 
@@ -208,18 +208,15 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 
 <div class="row">
 <div class="col-md-6">
-<h3>Day 1</h3>
+<h3>Friday, Sep 6</h3>
 <table class="table table-striped">
-<tr> <td>Before</td> <td><a href="">Pre-workshop survey</a> </td> </tr>
-<tr> <td>10:00</td>  <td>Welcome and introductions</td> </tr>
-<tr> <td>10:15</td>  <td><a href="">Topic 1</a></td> </tr>
-<tr> <td>11:00</td>  <td><a href="">Topic 2</a></td> </tr>
-<tr> <td>12:00</td>  <td><a href="">Topic 3</a></td> </tr>
+<tr> <td>Before</td> <td><a href="https://github.com/amueller/ml-workshop-1-of-4/blob/master/README.md">Setup</a> </td> </tr>
+<tr> <td>10:00</td>  <td>Welcome and introduction</td> </tr>
+<tr> <td>11:00</td>  <td>Supervised Learning</td> </tr>
 <tr> <td>12:30</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:30</td>  <td><a href="">Topic 4</a></td> </tr>
-<tr> <td>14:30</td>  <td><a href="">Topic 5</a></td> </tr>
-<tr> <td>15:30</td>  <td>Coffee</td> </tr>
-<tr> <td>15:45</td>  <td>Topic 6</td> </tr>
+<tr> <td>13:30</td>  <td>Preprocessing</td> </tr>
+<tr> <td>14:45</td>  <td>Coffee</td> </tr>
+<tr> <td>15:00</td>  <td>Missing Values</td> </tr>
 <tr> <td>17:45</td>  <td><a href="">Post-workshop survey</a> </td> </tr>
 <tr> <td>18:00</td>  <td>END</td> </tr>
 </table>
