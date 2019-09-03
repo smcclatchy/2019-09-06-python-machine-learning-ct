@@ -284,19 +284,12 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
-<p>
-  To participate in a
-  {% if page.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to the software described below.
-  In addition, you will need an up-to-date web browser.
-</p>
+Please see software installation instructions below. In addition, please prepare for this workshop by cloning the GitHub repository if you are familiar with command line git. This
+is highly encouraged as it allows you to easily synchronize any changes to the material.
+
+    git clone https://github.com/amueller/ml-workshop-1-of-4.git
+
+If you are not familiar with git, you can download the repository as a .zip file by heading over to the GitHub repository (https://github.com/amueller/ml-workshop-1-of-4) in your browser and click the green “Download” button in the upper right.
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
