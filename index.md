@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
-venue: "Introduction to Machine Learning with Python"
+venue: "Introduction to Machine learning with scikit-learn"
 address: "The Jackson Laboratory for Genomic Medicine, Holt Conference Room & Room 2440, 10 Discovery Dr, Farmington CT"
 country: "us"
 language: "en"
@@ -258,15 +258,6 @@ This is one of the places where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
-<h2 id="syllabus">Syllabus</h2>
-
-{% if page.carpentry == "swc" %}
-{% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-{% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-{% include lc/syllabus.html %}
-{% endif %}
 
 <hr/>
 
@@ -289,7 +280,7 @@ is highly encouraged as it allows you to easily synchronize any changes to the m
 
     git clone https://github.com/amueller/ml-workshop-1-of-4.git
 
-If you are not familiar with git, you can download the repository as a .zip file by heading over to the GitHub repository (https://github.com/amueller/ml-workshop-1-of-4) in your browser and click the green “Download” button in the upper right.
+If you are not familiar with git, you can download the repository as a .zip file by <a href="https://github.com/amueller/ml-workshop-1-of-4">heading over to the GitHub repository</a> in your browser and click the green “Download” button in the upper right.
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
