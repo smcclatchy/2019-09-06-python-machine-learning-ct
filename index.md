@@ -217,7 +217,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <tr> <td>13:30</td>  <td>Preprocessing</td> </tr>
 <tr> <td>14:45</td>  <td>Coffee</td> </tr>
 <tr> <td>15:00</td>  <td>Missing Values</td> </tr>
-<tr> <td>17:45</td>  <td><a href="">Post-workshop survey</a> </td> </tr>
+<tr> <td>17:45</td>  <td><a href="https://www.surveymonkey.com/r/ml-post">Post-workshop survey</a> </td> </tr>
 <tr> <td>18:00</td>  <td>END</td> </tr>
 </table>
 </div>
@@ -259,6 +259,20 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
+<h2 id="syllabus">Syllabus</h2>
+<table class="table table-striped">
+<div class="col-md-6">
+<ul>
+<li>Types of machine learning, basics of supervised learning</li>
+<li>Data loading with pandas</li>
+<li>Data requirements for scikit-learn</li>
+<li>Building classification and regression models</li>
+<li>The scikit-learn API</li>
+<li>Fundamentals of Data Preprocessing</li>
+</ul>
+</div>
+</table>
+    
 <hr/>
 
 {% comment %}
