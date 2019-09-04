@@ -11,7 +11,7 @@ humantime: "10:00 am - 6:00 pm"
 startdate: 2019-09-06
 enddate: 2019-09-06
 instructor: ["Andreas Müller"]
-helper: ["Sandeep Namburi", "Daniel Danis", "Anne Deslattes Mays", "Jim Kadin"]
+helper: ["Sandeep Namburi", "Daniel Danis", "Anne Deslattes Mays", "Jim Kadin", "Joshy George"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: https://pad.carpentries.org/2019-09-06-python-machine-learning-ct
 eventbrite: 61567036664
