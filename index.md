@@ -201,7 +201,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <div class="col-md-6">
 <h3>Friday, Sep 6</h3>
 <table class="table table-striped">
-<tr> <td>Before</td> <td><a href="https://github.com/amueller/ml-workshop-1-of-4/blob/master/README.md">Setup</a> </td> </tr>
+<tr> <td>Before</td> <td><a href="https://github.com/amueller/ml-workshop-1-of-4/blob/master/README.md#obtaining-the-tutorial-material">Setup</a> </td> </tr>
 <tr> <td>10:00</td>  <td>Welcome and introduction</td> </tr>
 <tr> <td>10:30</td>  <td>Supervised Learning</td> </tr>
 <tr> <td>11:00</td>  <td>Preprocessing</td> </tr>
@@ -294,7 +294,13 @@ is highly encouraged as it allows you to easily synchronize any changes to the m
 
     git clone https://github.com/amueller/ml-workshop-1-of-4.git
 
-If you are not familiar with git, you can download the repository as a .zip file by <a href="https://github.com/amueller/ml-workshop-1-of-4">heading over to the GitHub repository</a> in your browser and click the green “Download” button in the upper right.
+If you are not familiar with git, you can download the repository as a .zip file by <a href="https://github.com/amueller/ml-workshop-1-of-4">heading over to the GitHub repository</a> in your browser and click the green `Download` button in the upper right.
+After obtaining the material, open and execute a Jupyter Notebook `jupyter notebook check_env.ipynb` that is located at the top level of this repository. Inside the repository, you can open the notebook by executing
+
+`jupyter notebook check_env.ipynb`
+
+inside this repository. Inside the Notebook, you can run the code cell by clicking on the `Run Cells` button.
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
