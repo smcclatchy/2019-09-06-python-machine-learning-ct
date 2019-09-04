@@ -203,11 +203,16 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <table class="table table-striped">
 <tr> <td>Before</td> <td><a href="https://github.com/amueller/ml-workshop-1-of-4/blob/master/README.md">Setup</a> </td> </tr>
 <tr> <td>10:00</td>  <td>Welcome and introduction</td> </tr>
-<tr> <td>11:00</td>  <td>Supervised Learning</td> </tr>
+<tr> <td>10:30</td>  <td>Supervised Learning</td> </tr>
+<tr> <td>11:00</td>  <td>Preprocessing</td> </tr>
+<tr> <td>11:30</td>  <td>Missing Values</td> </tr>
+<tr> <td>12:25</td>  <td><a href="https://github.com/amueller/ml-workshop-2-of-4#obtaining-the-tutorial-material">Obtain afternoon materials</a> </td> </tr>
 <tr> <td>12:30</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:30</td>  <td>Preprocessing</td> </tr>
+<tr> <td>13:30</td>  <td>Grid search and cross-validation</td> </tr>
 <tr> <td>14:45</td>  <td>Coffee</td> </tr>
-<tr> <td>15:00</td>  <td>Missing Values</td> </tr>
+<tr> <td>15:00</td>  <td>Linear models for classification</td> </tr>
+<tr> <td>15:45</td>  <td>Linear models for regression</td> </tr>
+<tr> <td>16:30</td>  <td>Decision trees</td> </tr>
 <tr> <td>17:45</td>  <td><a href="https://www.surveymonkey.com/r/ml-post">Post-workshop survey</a> </td> </tr>
 <tr> <td>18:00</td>  <td>END</td> </tr>
 </table>
@@ -260,6 +265,10 @@ please preview your site before committing, and make sure to run
 <li>Building classification and regression models</li>
 <li>The scikit-learn API</li>
 <li>Fundamentals of Data Preprocessing</li>
+<li>Grid search and cross-validation</li>
+<li>Linear models for classification</li>
+<li>Linear models for regression</li>
+<li>Decision trees</li>
 </ul>
 </div>
 </table>
